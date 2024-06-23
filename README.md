@@ -42,7 +42,8 @@ To run the code in this repository, you need the following dependencies:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/next_word_prediction.git
+    git clone https://github.com/YuvinNavod/RNN_next_word_prediction
+.git
     cd next_word_prediction
     ```
 
